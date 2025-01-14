@@ -10,4 +10,10 @@ ALL LEETCODE SQL SOLUTIONS BY ME
   <li>
     <a href = "1683_invalid_tweets">1683. Invalid Tweets </a>
   </li>
+  <li>
+    <a href = "620_not_boring_movies">620. Not Boring Movies </a>
+  </li>
+  <li>
+    <a href = "1251_average_selling_price">1251. Average Selling Price </a>
+  </li>
 </ol>
