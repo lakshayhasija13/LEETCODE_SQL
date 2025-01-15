@@ -16,4 +16,7 @@ ALL LEETCODE SQL SOLUTIONS BY ME
   <li>
     <a href = "1251_average_selling_price">1251. Average Selling Price </a>
   </li>
+  <li>
+    <a href = "https://github.com/lakshayhasija13/LEETCODE_SQL/tree/main/1075_Project_Employees_I">107. Project Employees I </a>
+  </li>
 </ol>
