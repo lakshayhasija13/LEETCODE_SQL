@@ -19,4 +19,7 @@ ALL LEETCODE SQL SOLUTIONS BY ME
   <li>
     <a href = "https://github.com/lakshayhasija13/LEETCODE_SQL/tree/main/1075_Project_Employees_I">107. Project Employees I </a>
   </li>
+  <li>
+    <a href = "1633. Percentage of Users Attended a Contest">1633. percentage of users attended a contest </a>
+  </li>
 </ol>
